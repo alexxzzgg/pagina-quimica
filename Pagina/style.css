@@ -1,0 +1,45 @@
+.contenedor{
+	display: flex;
+	
+	.text {
+		font-size: 90pxs;
+}		
+}
+.imagen{
+	width: 300px;
+	margin-left: 70px;
+}
+.imagen2{
+	width: 300px;
+	margin-left: 70px;
+}
+.contenedor2{
+display: flex;
+	
+	.text {
+		font-size: 90pxs;
+}
+}
+.imagen{
+	width: 300px;
+	margin-left: 70px;
+}
+.imagen2{
+	width: 250px;
+	margin-left: 70px;
+}
+.imagen3{
+	width: 250px;
+	margin-left: 70px;
+}
+.imagen4{
+	width: 300px;
+	margin-left: 70px;
+
+}
+.contenedor3{
+	display: flex;
+	
+	.text {
+		font-size: 90pxs;
+}
